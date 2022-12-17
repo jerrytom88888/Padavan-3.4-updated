@@ -21,9 +21,7 @@ https://github.com/chongshengB/rt-n56u
 https://github.com/padavanonly/rt-n56u  
 https://github.com/immortalwrt/padavan  
 
-已测试的机型为MSG1500-7615，JCG-Q20，CR660x  
-  
 固件默认wifi名称PDCN及PDCN_5G  
 wifi密码1234567890  
-管理地址192.168.123.1  
+管理地址192.168.2.1  
 管理账号密码都是admin  
